@@ -4,7 +4,7 @@ return [
     /**
      * The book title.
      */
-    'title' => 'MODUL PERTEMUAN 8 - KKTKJ K2',
+    'title' => 'MODUL PERTEMUAN 9 - KKTKJ K2',
 
     /**
      * The author name.
